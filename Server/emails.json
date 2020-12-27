@@ -1,0 +1,146 @@
+[
+  {
+    "remetente": "Ronaldo",
+    "destinatario": "Caio",
+    "assunto": "Fui a praia",
+    "corpo": "Fui a praia com letícia.",
+    "id": 92905,
+    "isremetente": true
+  },
+  {
+    "remetente": "Ronaldo",
+    "destinatario": "Caio",
+    "assunto": "Fui a praia",
+    "corpo": "Fui a praia com letícia.",
+    "id": 32359,
+    "isremetente": false
+  },
+  {
+    "remetente": "Ronaldo",
+    "destinatario": "José",
+    "assunto": "Waldir Braz",
+    "corpo": "Waldir Braz retornou.",
+    "id": 26860,
+    "isremetente": true
+  },
+  {
+    "remetente": "Ronaldo",
+    "destinatario": "José",
+    "assunto": "Waldir Braz",
+    "corpo": "Waldir Braz retornou.",
+    "id": 12604,
+    "isremetente": false
+  },
+  {
+    "remetente": "Caio",
+    "destinatario": "Edson",
+    "assunto": "Comprar arroz",
+    "corpo": "Quero comer batata.",
+    "id": 84229,
+    "isremetente": true
+  },
+  {
+    "remetente": "Caio",
+    "destinatario": "Edson",
+    "assunto": "Comprar arroz",
+    "corpo": "Quero comer batata.",
+    "id": 5587,
+    "isremetente": false
+  },
+  {
+    "remetente": "Caio",
+    "destinatario": "Ronaldo",
+    "assunto": "Comprar arroz",
+    "corpo": "Quero comer batata.",
+    "encaminhar": true,
+    "id": 54659,
+    "isremetente": true
+  },
+  {
+    "remetente": "Caio",
+    "destinatario": "Ronaldo",
+    "assunto": "Comprar arroz",
+    "corpo": "Quero comer batata.",
+    "encaminhar": true,
+    "id": 21970,
+    "isremetente": false
+  },
+  {
+    "remetente": "Edson",
+    "destinatario": "Ronaldo",
+    "assunto": "Fui a praia denovo",
+    "corpo": "nossa meu.....",
+    "encaminhar": false,
+    "id": 10330,
+    "isremetente": true
+  },
+  {
+    "remetente": "Edson",
+    "destinatario": "Ronaldo",
+    "assunto": "Fui a praia denovo",
+    "corpo": "nossa meu.....",
+    "encaminhar": false,
+    "id": 55503,
+    "isremetente": false
+  },
+  {
+    "remetente": "Caio",
+    "destinatario": "Ronaldo",
+    "assunto": "Re: Fui a praia",
+    "corpo": "Massa.",
+    "encaminhar": false,
+    "responder": true,
+    "isremetente": true,
+    "id": 85577
+  },
+  {
+    "remetente": "Caio",
+    "destinatario": "Ronaldo",
+    "assunto": "Re: Fui a praia",
+    "corpo": "Massa.",
+    "encaminhar": false,
+    "responder": true,
+    "isremetente": false,
+    "id": 60068
+  },
+  {
+    "remetente": "Testando",
+    "destinatario": "Teste",
+    "assunto": "Sobre a aula",
+    "corpo": "Você entendeu essa aula?",
+    "encaminhar": false,
+    "responder": false,
+    "isremetente": true,
+    "id": 67360
+  },
+  {
+    "remetente": "Testando",
+    "destinatario": "Teste",
+    "assunto": "Sobre a aula",
+    "corpo": "Você entendeu essa aula?",
+    "encaminhar": false,
+    "responder": false,
+    "isremetente": false,
+    "id": 77011
+  },
+  {
+    "remetente": "Testando",
+    "destinatario": "Teste2",
+    "assunto": "Sobre a aula",
+    "corpo": "Você entendeu essa aula?",
+    "encaminhar": true,
+    "responder": false,
+    "isremetente": true,
+    "id": 12821
+  },
+  {
+    "remetente": "Testando",
+    "destinatario": "Teste2",
+    "assunto": "Sobre a aula",
+    "corpo": "Você entendeu essa aula?",
+    "encaminhar": true,
+    "responder": false,
+    "isremetente": false,
+    "id": 27462
+  }
+]
