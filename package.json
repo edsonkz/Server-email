@@ -1,0 +1,9 @@
+{
+    "name": "Servidor",
+    "version": "1.0",
+    "main": "Server/server.js",
+
+    "scripts": {
+        "start": "node Server/server.js"
+    }
+}
