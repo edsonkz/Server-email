@@ -90,5 +90,5 @@ const server = http.createServer((request, response) => {
     }
 });
 
-server.listen(8080, "localhost");
+server.listen(process.env.PORT || 8888);
 console.log("Listening on port 8080");
